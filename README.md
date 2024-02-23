@@ -1,7 +1,7 @@
 # Hello👋 I am developer Junhyeong Park.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr&count_private=true&show_icons=true)](https://github.com/JunhyeongPark-kr/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-krs&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&count_private=true&show_icons=true)
 
 
 ## Client Tools
