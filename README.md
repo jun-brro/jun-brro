@@ -1,6 +1,6 @@
 ## Hello 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr)](https://github.com/JunhyeongPark-kr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr?count_private=true&show_icons=true)](https://github.com/JunhyeongPark-kr/github-readme-stats)
 
 
 ## Client Tools
