@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr&show_icons=true&count_private=true&theme=vue" height="150"/>
   </a>
   <a href="https://github.com/JunhyeongPark-kr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&layout=compact&count_private=true&theme=vue" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&layout=compact&theme=vue" height="150"/>
   </a>
 </p>
 
