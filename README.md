@@ -26,13 +26,6 @@
     <a href="https://nginx.org" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   </p>
-  <p align="center">
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-    <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
-    <a href="https://ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
-  </p>
     <img src = "https://github-readme-activity-graph.vercel.app/graph?username=JunhyeongPark-kr&theme=vue&bg_color=FFFFFF&hide_title=true&hide_border=true" />
 </p>
 
