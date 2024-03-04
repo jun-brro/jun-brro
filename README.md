@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<p align="center">
-  <img width="700" alt="image" src="https://github.com/JunhyeongPark-kr/JunhyeongPark-kr/assets/115399447/23ef52f7-b009-400a-9e9b-091d2cd6be60">
 
-  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi!🙌%20I%20am%20Junhyeong%20Park&fontSize=40&fontColor=000000" />
   <p align="center">
     <a href="https://github.com/JunhyeongPark-kr">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue" height="150"/>
@@ -35,7 +33,3 @@
   - Yonsei Univ. AI Academy **YAI 14th** `2023.12 ~`
   - College AI Group **PROMETHEUS** 4th `2023.06 ~`
   - Yonsei Univ. Rockband **MEDUSA** Chief `2022.10 ~ 2024.02`
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
