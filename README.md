@@ -30,6 +30,7 @@
 
 ### About Me
   - Yonsei Univ. UIC **Nano Science & Engineering** `2020.03 ~`
-  - Yonsei Univ. AI Academy **YAI 14th** `2023.12 ~`
+  - Yonsei Univ. AI Academy **YAI 13th** `2023.12 ~`
   - College AI Group **PROMETHEUS** 4th `2023.06 ~`
+  - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **MEDUSA** Chief `2022.10 ~ 2024.02`
