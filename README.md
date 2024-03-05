@@ -31,6 +31,7 @@
 ### About Me
   - Yonsei Univ. UIC **Nano Science & Engineering** `2020.03 ~`
   - Yonsei Univ. AI Academy **YAI 13th** `2023.12 ~`
+  - Team [HAEBARAGI](https://github.com/sunnybraille) Client / AI Developer `2023.09 ~`
   - College AI Group **PROMETHEUS** 4th `2023.06 ~`
   - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **MEDUSA** Chief `2022.10 ~ 2024.02`
