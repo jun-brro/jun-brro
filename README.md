@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue" height="150"/>
     </a>
     <a href="https://github.com/JunhyeongPark-kr">
-      <img src="https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr&show_icons=true&include_all_commits=true&theme=vue" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr&show_icons=true&theme=vue" height="150"/>
     </a>
   </p>
 
