@@ -23,9 +23,7 @@
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
     <a href="https://nginx.org" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-  </p>
-    <img src = "https://github-readme-activity-graph.vercel.app/graph?username=JunhyeongPark-kr&theme=vue&bg_color=FFFFFF&hide_title=true&hide_border=true" />
-</p>
+  
 
 
 ### About Me
@@ -35,3 +33,7 @@
   - College AI Group **PROMETHEUS** 4th `2023.06 ~`
   - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **MEDUSA** Chief `2022.10 ~ 2024.02`
+
+</p>
+    <img src = "https://github-readme-activity-graph.vercel.app/graph?username=JunhyeongPark-kr&theme=vue&bg_color=FFFFFF&hide_title=true&hide_border=true" />
+</p>
