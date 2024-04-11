@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi!🙌%20I%20am%20Junhyeong%20Park&fontSize=40&fontColor=000000" />
   <p align="center">
-    <a href="https://github.com/JunhyeongPark-kr">
-      <img src="https://github-readme-stats.vercel.app/api?username=JunhyeongPark-kr&hide=stars&show_icons=true&theme=vue" height="150"/>
+    <a href="https://github.com/jun-brro">
+      <img src="https://github-readme-stats.vercel.app/api?username=jun-brro&hide=stars&show_icons=true&theme=vue" height="150"/>
     </a>
-    <a href="https://github.com/JunhyeongPark-kr">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhyeongPark-kr&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue&exclude_repo=YAI_Toy_Project_server" height="150"/>
+    <a href="https://github.com/jun-brro">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-brro&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue&exclude_repo=YAI_Toy_Project_server" height="150"/>
     </a>
   </p>
 
@@ -35,5 +35,5 @@
   - Yonsei Univ. Rockband **MEDUSA** Chief `2022.10 ~ 2024.02`
 
 </p>
-    <img src = "https://github-readme-activity-graph.vercel.app/graph?username=JunhyeongPark-kr&theme=vue&bg_color=FFFFFF&hide_title=true&hide_border=true" />
+    <img src = "https://github-readme-activity-graph.vercel.app/graph?username=jun-brro&theme=vue&bg_color=FFFFFF&hide_title=true&hide_border=true" />
 </p>
