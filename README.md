@@ -1,13 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhyeongPark-kr%2Fhit-counter&count_bg=%23001FFF&title_bg=%23555555&icon=checkmarx.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=false"/></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi!🙌%20I%20am%20Junhyeong%20Park&fontSize=40&fontColor=000000" />
-  <p align="center">
-    <a href="https://github.com/jun-brro">
-      <img src="https://github-readme-stats.vercel.app/api?username=jun-brro&hide=stars&show_icons=true&theme=vue" height="150"/>
-    </a>
-    <a href="https://github.com/jun-brro">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-brro&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue&exclude_repo=YAI_Toy_Project_server" height="150"/>
-    </a>
+  
   </p>
 
   <p align="center">
