@@ -20,7 +20,6 @@
 
 
 ### About Me
-  - [Resume](https://my.surfit.io/w/1322660066)
   - Yonsei Univ. UIC **Nano Science & Engineering** `2020.03 ~`
   - Yonsei Univ. AI Academy **YAI 13th** `2023.12 ~`
   - Team [HAEBARAGI](https://github.com/sunnybraille) Deep Learning Engineer `2023.09 ~ 2024.04`
