@@ -24,5 +24,4 @@
   - Yonsei Univ. AI Academy **YAI 13th** `2023.12 ~`
   - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
   - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~`
-  - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
