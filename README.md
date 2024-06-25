@@ -6,16 +6,12 @@
   <p align="center">
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
     <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-    <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
-    <a href="https://www.raspberrypi.org" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/></a>
-  </p>
-  <p align="center">
     <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
     <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
-    <a href="https://nginx.org" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  </p>
   
 
 
