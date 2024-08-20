@@ -4,8 +4,8 @@
 </p>
 
   <p align="center">
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
     <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
     <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
     <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
@@ -19,5 +19,5 @@
   - Yonsei Univ. UIC **Nano Science & Engineering** | **Electric & Electronic Engineering (Double Major)** `2020.03 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
   - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
-  - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~`
+  - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~ 2024.08`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
