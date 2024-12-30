@@ -17,7 +17,6 @@
 
 ### Current Works
   - Yonsei Univ. Multimodal AI Lab **[MIRLAB](https://mirlab.yonsei.ac.kr/)** Research Internship (Advised by Prof. Youngjae Yu) `2024.10 ~`
-  - HOWEVER Co-Founder `2024.12 ~`
   - GoodGang Labs Industry-Academia Collaboration Project `2024. 12 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
