@@ -6,10 +6,7 @@
   <p align="center">
     <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-    <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
     <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
-    <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   </p>
   
@@ -17,10 +14,10 @@
 
 ### Current Works
   - Yonsei Univ. Multimodal AI Lab **[MIRLAB](https://mirlab.yonsei.ac.kr/)** Research Internship (Advised by Prof. Youngjae Yu) `2024.10 ~`
-  - GoodGang Labs Industry-Academia Collaboration Project `2024. 12 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
 ### Previous Works
+  - **[GoodGang Labs](https://goodganglabs.com/)** Collaboration Project koTask (Multi-turn Function Call sLM) `2024. 12 ~ 2025. 02` 
   - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
   - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~ 2024.08`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
