@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhyeongPark-kr%2Fhit-counter&count_bg=%23001FFF&title_bg=%23555555&icon=checkmarx.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjun-brro&label=&icon=github&color=%230a58ca"></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=B17F59&height=300&section=header&text=Hi!🙌%20I%20am%20Junhyeong%20Park&fontSize=40&fontColor=A5B68D" />
 </p>
