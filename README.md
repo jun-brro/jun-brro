@@ -14,7 +14,6 @@
 ### Current Works
   - Yonsei Univ. Multimodal AI Lab **[MIRLAB](https://mirlab.yonsei.ac.kr/)** Research Internship (Advised by Prof. Youngjae Yu) `2024.10 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
-  - **[Dropstudio](https://dropstudio.kr/)** Collaborative Engineer (Language Model, Agent Developer) `2025.07 ~`
 
 ### Previous Works
   - **[GoodGang Labs](https://goodganglabs.com/)** Collaboration Project koTask (Multi-turn Function Call sLM) `2024. 12 ~ 2025. 02`
