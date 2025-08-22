@@ -12,10 +12,10 @@
 
 
 ### Current Works
-  - Yonsei Univ. Multimodal AI Lab **[MIRLAB](https://mirlab.yonsei.ac.kr/)** Research Internship (Advised by Prof. Youngjae Yu) `2024.10 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
 ### Previous Works
+  - Yonsei Univ. Multimodal AI Lab **[MIRLAB](https://mirlab.yonsei.ac.kr/)** Research Internship (Advised by Prof. Youngjae Yu) `2024.10 ~ 2025. 08`
   - **[GoodGang Labs](https://goodganglabs.com/)** Collaboration Project koTask (Multi-turn Function Call sLM) `2024. 12 ~ 2025. 02`
   - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
   - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~ 2024.08`
