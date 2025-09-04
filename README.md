@@ -12,7 +12,7 @@
 
 
 ### Current Works (Research: [Google Scholar](https://scholar.google.com/citations?user=vRgBjFQAAAAJ&hl=ko&authuser=2))
-  - Undergraduate Researcher (Multimodal Reasoning & Generation, Advised by Prof. Youngjae Yu) `2025.08 ~`
+  - Undergraduate Researcher (Multimodal Reasoning & Generation) `2025.08 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
 ### Previous Works
