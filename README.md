@@ -12,7 +12,8 @@
 
 
 ### Current Works (Research: [Google Scholar](https://scholar.google.com/citations?user=vRgBjFQAAAAJ&hl=ko&authuser=2))
-  - Undergraduate Researcher (Multimodal Reasoning & Generation) `2025.08 ~`
+  - KAIST **[ALIN Lab](https://alinlab.kaist.ac.kr/)** Research Internship (VLA, Advised by Prof. Jinwoo Shin) `2025.09 ~`
+  - **[JOYCITY](https://corp.joycity.com/)** Collaborative Project (Developing RL algorithms for basketball game env.) `2025.09 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
 ### Previous Works
