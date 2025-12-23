@@ -12,7 +12,7 @@
 
 
 ### Current Works (Research: [Google Scholar](https://scholar.google.com/citations?user=vRgBjFQAAAAJ&hl=ko&authuser=2))
-  - KAIST **[ALIN Lab](https://alinlab.kaist.ac.kr/)** Research Internship (VLA, Advised by Prof. Jinwoo Shin) `2025.09 ~`
+  - KAIST **[ALIN Lab](https://alinlab.kaist.ac.kr/)** Undergraduate Researcher (VLA, Advised by Prof. Jinwoo Shin) `2025.09 ~`
   - **[JOYCITY](https://corp.joycity.com/)** Collaborative Project (Developing RL algorithms for basketball game env.) `2025.11 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
@@ -22,3 +22,6 @@
   - **[GoodGang Labs](https://goodganglabs.com/)** Collaboration Project koTask (Multi-turn Function Call sLM) `2024. 12 ~ 2025. 02`
   - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Leader `2022.10 ~ 2024.02`
+
+### Contact
+  - email: junhyeong.park.ai@gmail.com
