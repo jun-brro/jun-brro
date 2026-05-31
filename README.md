@@ -11,7 +11,7 @@
   
 
 
-### Current Works (Research: [Google Scholar](https://scholar.google.com/citations?user=vRgBjFQAAAAJ&hl=ko&authuser=2))
+### Current Works (Research: [Google Scholar](https://scholar.google.com/citations?user=Tlm0tJkAAAAJ&hl=en))
   - KAIST **[ALIN Lab](https://alinlab.kaist.ac.kr/)** Undergraduate Researcher (VLA, Advised by Prof. Jinwoo Shin) `2025.09 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI) 13th** `2023.12 ~`
 
